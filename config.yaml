@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser: chrome
+username: '123658962'
+password: '1e660b4799'
+title: 'Печенюшка'
+content: 'Это вкусная, имбирная печенька!'
